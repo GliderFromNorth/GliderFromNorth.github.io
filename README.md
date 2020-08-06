@@ -6,10 +6,4 @@
 
 <font face="Cooper Black" color="green" size="4">You are learning Web Designing</font>
 
-<font face="broadway" color="red" size="6">You are learning Web Designing</font>
 
-<font face="Aerial" color="yellow" size="8"> You are learning Web Designing</font>
-
-<font face="Comic Sans MS" color="purple" size="10"> You are learning Web Designing</font>
-
-</body></html>
